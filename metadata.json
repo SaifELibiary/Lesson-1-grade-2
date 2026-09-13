@@ -1,0 +1,6 @@
+{
+  "name": "Grade 2 Math: Graphs & Charts with Mr. Saif",
+  "description": "An interactive, colorful Grade 2 Math learning adventure teaching graphs, charts, surveys, and data reading with Mr. Saif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
